@@ -135,3 +135,98 @@ Reaganomics had mixed results. Initially, the economy entered a recession due to
 ### Conclusion
 
 Reaganomics was a response to the economic challenges of the late 20th century. Its implementation marked a significant departure from the economic policies of the previous decades and had lasting impacts on American economic policy, influencing debates over taxation, regulation, and government spending for years to come.
+
+---
+
+### 补充理解里根经济政策的历史背景：布雷顿森林体系（Additional historical background for understanding Reaganomics: Bretton Woods system）
+
+### 布雷顿森林体系
+
+要全面了解里根经济政策诞生的背景，了解布雷顿森林体系至关重要。该体系对全球经济政策产生了深远影响，直到 20 世纪 70 年代初崩溃。
+
+#### 布雷顿森林体系的起源
+
+该国际货币体系于 1944 年在新罕布什尔州的布雷顿森林会议上成立，旨在实现二战后的经济稳定和繁荣。它基于两个关键机构：
+
+- **国际货币基金组织 (IMF)**：旨在监督汇率稳定并向面临国际收支问题的国家提供短期财政援助。
+
+- **世界银行**：最初称为国际复兴开发银行，专注于为战后重建和发展项目提供贷款。
+
+布雷顿森林体系的基石是大多数货币与美元挂钩，而美元又可以以固定汇率（每盎司黄金 35 美元）兑换黄金。这种安排使美元成为世界主要储备货币。
+
+#### 布雷顿森林体系崩溃
+
+到 20 世纪 60 年代末和 70 年代初，布雷顿森林体系开始瓦解，原因如下：
+
+- **黄金储备枯竭**：持续的贸易赤字和军费开支，尤其是在越南战争期间，导致美国黄金大量外流，威胁到美元兑换黄金的能力。
+
+- **货币投机**：对美元黄金支持的信心减弱，导致外国投资者对美元进行投机性攻击，他们怀疑美国能否维持每盎司 35 美元的价格。
+
+- **尼克松冲击**：1971 年，理查德·尼克松总统暂停了美元与黄金的直接兑换，从而有效地结束了布雷顿森林体系。此举是对日益增长的财政压力的回应，旨在防止美国黄金储备进一步枯竭。
+
+#### 后果和影响
+
+布雷顿森林体系的崩溃开启了浮动汇率的新时代，货币价值由市场力量而不是固定汇率决定。这一转变对经济政策产生了重大影响：
+
+- **波动性增加**：货币变得更加不稳定，影响了国际贸易和投资。
+
+- **通胀担忧**：没有黄金可兑换性所施加的约束，许多国家经历了更高的通胀率。
+
+- **政策调整**：世界各国政府不得不调整其经济政策，以应对浮动汇率和市场动态增加的新现实。
+
+### 对里根经济政策的影响
+布雷顿森林体系的崩溃和向浮动汇率的过渡导致了 20 世纪 70 年代的经济不稳定，包括前面提到的通胀压力和石油危机。这些条件为里根经济政策奠定了基础：
+
+- **通货膨胀和经济不确定性**：缺乏固定汇率制度导致货币价值波动加剧，影响进口价格并导致通货膨胀。这是里根经济政策旨在通过控制货币供应量和减税来刺激经济活动来解决的直接挑战。
+
+- **全球经济一体化**：布雷顿森林体系的终结也加速了全球化进程，导致美国产业竞争加剧。里根的放松管制政策在一定程度上是对这一新经济现实的回应，旨在使美国企业在全球舞台上更具竞争力。
+
+- **货币政策转变**：保罗·沃尔克领导下的美联储采取积极行动抑制通胀，将利率提高到历史高位。虽然这导致了 20 世纪 80 年代初的严重衰退，但也为里根总统任期内的经济扩张奠定了基础。
+
+里根的政策寻求通过促进自由市场原则和减少政府在经济事务中的作用来重振美国经济，反映了布雷顿森林体系崩溃后更加广泛的向新自由主义经济政策的转变。
+
+### Bretton Woods System
+
+To fully grasp the context in which Reaganomics emerged, it's essential to understand the Bretton Woods system, which profoundly influenced global economic policies until its collapse in the early 1970s.
+
+#### Origins of the Bretton Woods System
+
+Established in 1944 at the Bretton Woods Conference in New Hampshire, this international monetary system aimed to create economic stability and prosperity after World War II. It was based on two key institutions:
+
+- **International Monetary Fund (IMF)**: Designed to oversee exchange rate stability and provide short-term financial assistance to countries facing balance of payments problems.
+
+- **World Bank**: Originally called the International Bank for Reconstruction and Development, it focused on providing loans for post-war reconstruction and development projects.
+
+A cornerstone of the Bretton Woods system was the pegging of most currencies to the U.S. dollar, which in turn was convertible to gold at a fixed rate ($35 per ounce of gold). This arrangement made the U.S. dollar the world's primary reserve currency.
+
+#### Collapse of Bretton Woods
+
+By the late 1960s and early 1970s, the Bretton Woods system began to unravel due to several factors:
+
+- **Gold Reserves Depletion**: Persistent trade deficits and military spending, especially during the Vietnam War, led to a significant outflow of gold from the U.S., threatening the dollar's convertibility into gold.
+
+- **Currency Speculation**: Confidence in the dollar's gold backing waned, leading to speculative attacks on the dollar by foreign investors who doubted the U.S. could maintain the $35-per-ounce price.
+
+- **Nixon Shock**: In 1971, President Richard Nixon suspended the direct convertibility of the U.S. dollar to gold, effectively ending the Bretton Woods system. This move was a response to the growing fiscal pressures and was intended to prevent further depletion of U.S. gold reserves.
+
+#### Aftermath and Implications
+
+The collapse of the Bretton Woods system ushered in a new era of floating exchange rates, where currency values were determined by market forces rather than fixed rates. This transition had significant implications for economic policy:
+
+- **Increased Volatility**: Currencies became more volatile, affecting international trade and investment.
+
+- **Inflation Concerns**: Without the discipline imposed by gold convertibility, many countries experienced higher inflation rates.
+
+- **Policy Adjustments**: Governments around the world had to adjust their economic policies to cope with the new realities of floating exchange rates and increased market dynamics.
+
+### Impact on Reaganomics
+
+The collapse of Bretton Woods and the transition to floating exchange rates contributed to the economic instability of the 1970s, including inflationary pressures and the oil shocks mentioned earlier. These conditions set the stage for Reaganomics:
+
+- **Inflation and Economic Uncertainty**: The lack of a fixed exchange rate regime contributed to higher volatility in currency values, which affected import prices and contributed to inflation. This was a direct challenge that Reagan’s economic policies aimed to address through controlling money supply and cutting taxes to stimulate economic activity.
+
+- **Global Economic Integration**: The end of Bretton Woods also accelerated the process of globalization, leading to increased competition for US industries. Reagan’s deregulatory policies were partly a response to this new economic reality, aiming to make US businesses more competitive on the global stage.
+
+- **Shift in Monetary Policy**: The Federal Reserve, under Paul Volcker, took aggressive action to curb inflation, raising interest rates to historically high levels. While this led to a severe recession in the early 1980s, it also laid the groundwork for the economic expansion that occurred during Reagan’s presidency.
+
+Reagan's policies sought to reinvigorate the U.S. economy by promoting free-market principles and reducing the role of government in economic affairs, reflecting a broader shift toward neoliberal economic policies that gained prominence in the aftermath of the Bretton Woods system's collapse.
